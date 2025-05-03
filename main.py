@@ -6,7 +6,7 @@ import pandas as pd
 app = FastAPI()
 
 # טוען את הדאטה
-df = pd.read_csv('filtered_data_slim.csv')
+df = pd.read_csv('https://drive.google.com/uc?export=download&id=1WvpiI7gvQmV7F3JxEhWD2YtXEFMPrOFP')
 df.columns = df.columns.str.strip()  # מנקה רווחים בעמודות
 
 @app.get("/")
