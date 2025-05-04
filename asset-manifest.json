@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/israel-import-dashboard/static/css/main.48098dbc.css",
+    "main.js": "/israel-import-dashboard/static/js/main.59f46e41.js",
+    "index.html": "/israel-import-dashboard/index.html",
+    "main.48098dbc.css.map": "/israel-import-dashboard/static/css/main.48098dbc.css.map",
+    "main.59f46e41.js.map": "/israel-import-dashboard/static/js/main.59f46e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48098dbc.css",
+    "static/js/main.59f46e41.js"
+  ]
+}
