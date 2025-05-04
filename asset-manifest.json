@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gov_api/static/css/main.48098dbc.css",
-    "main.js": "/gov_api/static/js/main.7f305ab0.js",
-    "index.html": "/gov_api/index.html",
-    "main.48098dbc.css.map": "/gov_api/static/css/main.48098dbc.css.map",
-    "main.7f305ab0.js.map": "/gov_api/static/js/main.7f305ab0.js.map"
+    "main.css": "./static/css/main.48098dbc.css",
+    "main.js": "./static/js/main.dc5ce344.js",
+    "index.html": "./index.html",
+    "main.48098dbc.css.map": "./static/css/main.48098dbc.css.map",
+    "main.dc5ce344.js.map": "./static/js/main.dc5ce344.js.map"
   },
   "entrypoints": [
     "static/css/main.48098dbc.css",
-    "static/js/main.7f305ab0.js"
+    "static/js/main.dc5ce344.js"
   ]
 }
